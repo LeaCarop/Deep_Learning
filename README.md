@@ -1,2 +1,2 @@
 # Deep_Learning
-Red Neuronal para una dataset de fotos
+Red Neuronal para un dataset de fotos ('iNTEL')
