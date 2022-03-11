@@ -1,2 +1,2 @@
 # Deep_Learning
-Red Neuronal para un dataset de fotos ('iNTEL')
+Clasificación de imágenes en 6 clases con Red Neuronal
